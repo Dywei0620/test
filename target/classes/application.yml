@@ -1,0 +1,8 @@
+# 此处应该定义名称，否则注册到Server后的名字为UNKNOWN
+spring:
+  application:
+    name: eureka-client
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8761/eureka/
